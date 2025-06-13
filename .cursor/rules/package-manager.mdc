@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Please use bun as the package manager for both frontend and backend. THIS IS EXTREMELY IMPORTANT!!

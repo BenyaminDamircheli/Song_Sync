@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+PLEASE NOTE THAT THIS PROJECT IS A MONOREPO SO TREAT IT AS SUCH
+
+# Backend + frontend
+Whenever you are writing code, always document functions using common convention for that language (usually typescript/jsdoc). Document the purpose of the function, the parameters it takes, and the return value. Also make sure to comment any non-obvious code.
+
+DO NOT ADD UNNECESSARY COMMENTS, I AM AN EXPERT.
+
+# Frontend
+USE REACT BEST PRACTICES!!! If you think you should create a new component, make sure to use the best practices for that component.
+Try to keep code modular and reusable. Use hooks, context, and other features of react to make code more maintainable, BUt don't overuse them.
+For styling, please use @global.css and either add or use the colors already present there
